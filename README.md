@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/incogni2him/LABURL)
+  - [Active Directory Home Lab](https://github.com/incogni2him/ActiveDirectoryLab-)
 
 <h2>📜  Certifications</h2>
 
